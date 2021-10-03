@@ -1,2 +1,2 @@
-# ToDo List with Create React App
+# To Do List with Create React App
 
